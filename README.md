@@ -1,4 +1,4 @@
-# 🧮 **Calculadora Simples em Java (sem `if/else`)**
+# 🧮 **Calculadora Simples em Java (sem `if/else`)!**
 Este é um exercício de uma calculadora em Java que realiza operações básicas **sem utilizar estruturas `if/else`**, apenas com **operadores ternários (`? :`)**.
 ## **Funcionalidades Suportadas**
 - **`+` Soma**  
